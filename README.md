@@ -1,0 +1,1 @@
+# script-for-saving-and-prompting-credential-via-bash
